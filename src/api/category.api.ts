@@ -1,4 +1,4 @@
-const category = [
+export const category = [
    //Наука
    {
       title: 'Наука',
